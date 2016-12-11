@@ -20,6 +20,7 @@ public class DatabaseExecutor {
     }
     
     private boolean setupConnection() {
-        
+        //TO-DO
+        return false;
     }
 }
